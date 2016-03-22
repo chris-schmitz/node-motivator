@@ -1,5 +1,5 @@
 {
-  "name": "motivator",
+  "name": "node-motivator",
   "version": "1.0.0",
   "description": "OS notifications that give you motivation(s).",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris Schmitz",
+  "email": "schmitz.chris@gmail.com",
   "license": "ISC",
   "dependencies": {
     "motivations": "^1.0.10",
