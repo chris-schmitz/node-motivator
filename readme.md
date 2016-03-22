@@ -43,7 +43,7 @@ This project requires [node.js and npm](https://nodejs.org/en/) (comes with node
 
         node index.js
 
-- Open youtube and look up "Scareface (Push it to the Limit)" (e.g.):
+- Open youtube and look up "Scarface (Push it to the Limit)" (e.g.):
 
         open https://www.youtube.com/watch?v=DZz3y6r-5H8
 
