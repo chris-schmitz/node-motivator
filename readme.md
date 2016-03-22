@@ -2,7 +2,7 @@
 
 Inspirational statements via OS notification from the [NodeTogether Motivations](https://github.com/NodeTogether/motivations) repository.
 
-![demo](http://i.imgur.com/3TxsyH9.gifv)
+![demo](readmeAttachments/Motivator.gif)
 
 Remind yourself that you can do it :)
 
