@@ -15,7 +15,7 @@ function Motivator(timeSpanMeasure, timeSpanUnit){
 
 Motivator.prototype.motivateMe = function (){
     Repeat(this.getMotivation)
-        .every(this.timeSpan.measure, this.timeSpan.Unit)
+        .every(this.timeSpan.measure, this.timeSpan.unit)
         .for(this.duration.measure, this.duration.unit)
         .start()
 },
